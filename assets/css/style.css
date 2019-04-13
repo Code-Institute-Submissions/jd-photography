@@ -1,2 +1,64 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+/*------------------------------------------------------ Colours*/
+
+.bg-color {
+    background-color: #00001a;
+}
+
+
+
+
+
+
+
+
+/*------------------------------------------------------ heading*/
+
+.navbar-brand {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 26px;
+    margin-left: 20px;
+    color: #fafafa;
+}
+
+.navbar-collapse {
+    text-align: right;
+}
+
+
+
+
+
+/*------------------------------------------------------ footer*/
+
+footer {
+    background-color: #00001a;
+    color: #fafafa;
+    min-height: 120px;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.social-links li a i {
+    width: 46px;
+    height: 46px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 23px;
+    line-height: 21px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background-color: #1a1aff;
+}
+
