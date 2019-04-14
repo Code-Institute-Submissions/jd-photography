@@ -2,7 +2,9 @@
 
 /*------------------------------------------------------ Colours*/
 
-
+.bg-color {
+    background-color: #00001a;
+}
 
 
 
@@ -12,7 +14,6 @@
 
 
 /*------------------------------------------------------ heading*/
-
 
 .navbar-brand {
     font-family: "Roboto", sans-serif;
@@ -61,3 +62,20 @@ footer {
     background-color: #1a1aff;
 }
 
+/* Styles for the portfolio */
+
+section {
+background-color:  #00001a;
+}
+
+
+
+.tz-gallery img {
+    border-radius: 2px;
+}
+
+.baguetteBox-button {
+    background-color: transparent !important;
+}
+
+/* Styles for the portfolio */
