@@ -35,6 +35,9 @@
 
 
 /*------------------------------------------------------ footer*/
+.uppercase {
+    text-transform: uppercase;
+}
 
 footer {
     background-color: #00001a;
@@ -81,7 +84,12 @@ background-color:  #00001a;
     background-color: transparent !important;
 }
 
-/* Styles for the portfolio */
+/*....................................................... Styles for the portfolio */
+
+ .gallery-container {   
+     padding: 30px
+}
+
 
 /*------------------------------------------------------ Contact Form*/
 
@@ -95,7 +103,7 @@ background-color:  #00001a;
 .center-form {
     padding-top: 10px;
     margin: 0 auto;
-    max-width: 70%;
+    max-width: 80%;
    
 }
 
@@ -105,6 +113,19 @@ button[type="submit"] {
     color: #fafafa;
     background-color:  #1a1aff;
 }
+
+
+
+/*------------------------------------------------------About Me*/
+
+.aboutme-text {
+    margin: 0;
+    padding: 20px;
+    color: #fff;
+    font-family: "Exo", sans-serif;
+}
+
+
 
 /*------------------------------------------------------ Media Queries*/
 
