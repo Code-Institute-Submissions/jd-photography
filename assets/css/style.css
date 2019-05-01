@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
 
+
+
 /*------------------------------------------------------ Colours*/
 
 .bg-color {
@@ -11,17 +13,23 @@
 }
 
 
-
-
-
-
-
 /*------------------------------------------------------ heading*/
+
+.navbar {
+    padding: 16px;
+}
+.navbar-nav li {
+    padding-right: 16px;
+}
+
+.nav-link {
+    font-size: 20px;
+}
 
 .navbar-brand {
     font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    font-size: 26px;
+    font-weight: 400;
+    font-size: 30px;
     margin-left: 20px;
     color: #fafafa;
 }
@@ -31,10 +39,9 @@
 }
 
 
-
-
-
 /*------------------------------------------------------ footer*/
+
+
 .uppercase {
     text-transform: uppercase;
 }
@@ -46,6 +53,14 @@ footer {
     text-align: center;
     padding: 20px;
     margin: 0;
+}
+
+footer h5 {
+    padding-bottom: 20px;
+}
+
+footer li a {
+    padding-top: 30px;
 }
 
 .social-links li a i {
@@ -115,7 +130,6 @@ button[type="submit"] {
 }
 
 
-
 /*------------------------------------------------------About Me*/
 
 .aboutme-text {
@@ -125,6 +139,11 @@ button[type="submit"] {
     font-family: "Exo", sans-serif;
 }
 
+.selfie {
+    margin: 0;
+    max-width: 720px;
+    padding: 20px;
+}
 
 
 /*------------------------------------------------------ Media Queries*/
