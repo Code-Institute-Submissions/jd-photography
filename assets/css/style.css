@@ -4,6 +4,10 @@
 
 /*------------------------------------------------------ Colours*/
 
+body {
+    background-color: #000;
+}
+
 .bg-color {
     background-color: #00001a;
 }
