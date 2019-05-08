@@ -76,3 +76,8 @@ All photos were taken by me.
 Responsive image gallery was created using "webseotips" blog post. http://webseotips.com/responsive-image-gallery-bootstrap-4/
 
 **This is for educational use.** 
+<<<<<<< HEAD
+=======
+
+The Cloud9 IDE team
+>>>>>>> 4c4d6c8497a41b775d08a5ea3532b40bef7a5c58
